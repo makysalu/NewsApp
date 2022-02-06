@@ -1,0 +1,39 @@
+{
+    "news": [
+        {
+            "title": "Qué aportan Mobile edge computing y unas gafas inteligentes",
+            "description": "Con las tecnologías de realidad asistida/aumentada (RA) y virtual (RV) abriéndose paso en el mercado empresarial, muchas empresas están encontrando la manera de incorporarlas...",
+            "date": "2022-02-01T10:35:07.000Z",
+            "content": "Con las tecnologías de realidad asistida/aumentada (RA) y virtual (RV) abriéndose paso en el mercado empresarial, muchas empresas están encontrando la manera de incorporarlas a sus prácticas cotidianas, para crear entornos de trabajo más envolventes y atractivos. Industrias como la sanitaria, la manufacturación o la construcción están encontrando en estas tecnologías, cada vez más sofisticadas, una gran ayuda para mejorar los procesos, conectar a los trabajadores con el terreno, aumentando la seguridad e impartiendo la formación necesaria.",
+            "author": "Maite Ramos"
+        }, 
+        {
+            "title": "Digitalización y mejora continua",
+            "description": "La digitalización de las empresas ya no es algo opcional, algo que vayamos a hacer en un futuro, es ya el presente, en todos...",
+            "date": "2022-02-02T09:22:33.000Z",
+            "content": "La digitalización de las empresas ya no es algo opcional, algo que vayamos a hacer en un futuro, es ya el presente, en todos los ámbitos, y no es una excepción el ámbito de la mejora continua. Pero mientras que para algunas compañías la digitalización es una moda y la mejora continua es algo ya muy conocido, otras van incrementando su ventaja gracias a esta conjunción. ¿Pero dónde está la diferencia? ¿Porque algunas compañías mejoran mientras otras están estancadas? ¿Dónde encaja la digitalización en esta ecuación?",
+            "author": "Arguider Isasti"
+        }, 
+        {
+            "title": "La empresa apuesta por Cyber AI, Inteligencia Generativa, cloud nativo y Low-Code",
+            "description": "Cyber AI o la Inteligencia Generativa van a ser algunas de las apuestas de las empresas durante este año. Además, las empresas distribuidas, que...",
+            "date": "2022-02-03T10:33:56.000Z",
+            "content": "Cyber AI o la Inteligencia Generativa van a ser algunas de las apuestas de las empresas durante este año. Además, las empresas distribuidas, que nacieron principalmente de la necesidad de teletrabajar debido a la pandemia de Covid-19, serán el modelo de organización predominante en 2022. El teletrabajo ha dejado de ser una situación pasajera para convertirse en un modelo definitivo y las organizaciones deben adaptarse para poder ganar flexibilidad y resiliencia reinventando los canales tradicionales que hasta ahora soportaban el negocio. Esta situación, según los expertos de las diferentes áreas de negocios de Altia, será la que dicte las tendencias tecnológicas que despuntarán este año. En concreto, para la consultora española de tecnología, estas son las tecnologías que permitirán a las empresas mantenerse o convertirse en empresas distribuidas de éxito:",
+            "author": "Isidro Ros"
+        }, 
+        {
+            "title": "Así es un plan de recuperación de desastres",
+            "description": "Cuando se habla de 'recuperación de desastres' solemos imaginamos el impacto producido por desastres naturales como inundaciones, fenómenos climáticos extremos y terremotos. Tal vez...",
+            "date": "2022-02-04T08:46:55.000Z",
+            "content": "Cuando se habla de “recuperación de desastres” solemos imaginamos el impacto producido por desastres naturales como inundaciones, fenómenos climáticos extremos y terremotos. Tal vez incluso pensamos en una erupción volcánica, como la producida recientemente en La Palma. Y aunque estos desastres tienen el potencial de ser muy destructores, también son poco frecuentes.",
+            "author": "Stuart Bernard"
+        }, 
+        {
+            "title": "5 tendencias en las comunicaciones digitales de 2022",
+            "description": "Infobip ha presentado las cinco tendencias clave que protagonizarán las interacciones digitales de 2022. Ya en 2020 y 2021 han estado marcadas por la...",
+            "date": "2022-02-05T11:45:37.000Z",
+            "content": "Infobip ha presentado las cinco tendencias clave que protagonizarán las interacciones digitales de 2022. Ya en 2020 y 2021 han estado marcadas por la avalancha de proyectos de digitalización con tecnologías emergentes como respuesta a la pandemia.",
+            "author": "Vanesa García"
+        }
+    ]
+}
