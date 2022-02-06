@@ -1,0 +1,14 @@
+.modal-header{
+    background: #212529;
+    color: whitesmoke;
+    border-radius: 10px 10px 0 0;
+}
+
+.btn-close{
+    color: whitesmoke !important;
+}
+
+.modal-content{
+    border-radius: 10px;
+    border: 1px solid #212529;
+}

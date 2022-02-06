@@ -1,0 +1,22 @@
+#sidebar{
+  height: 100%;
+  min-height: 100vh;
+  width: 200px;
+  border: 2px solid #212529;
+}
+
+span.nav-link, span.nav-link:hover{
+  color: whitesmoke;
+  cursor: pointer;
+  padding: 15px;
+}
+
+
+span.active {
+  background-color:  #C0C0C0;
+  color: whitesmoke;
+}
+
+hr{
+  margin: 0px !important;
+}
